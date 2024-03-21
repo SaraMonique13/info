@@ -14,7 +14,7 @@
 }
 .light {
   --text-color: rgb(73, 2, 38);
-  --bg-url: url(./white\ pink.jpg);
+  --bg-url: url(./assets/white\ pink.jpg);
   --stroke-color: rgba(126, 2, 50, 0.5);
   --surface-color: rgba(250, 130, 200, 0.089);
   --surface-color-hover: rgba(235, 77, 174, 0.2);

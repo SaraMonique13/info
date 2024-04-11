@@ -13,7 +13,7 @@
   --switch-bg-url: url(./assets/moon-stars.svg);
 }
 .light {
-  --text-color: rgb(73, 2, 38);
+  --text-color: black;
   --bg-url: url(./assets/white\ pink.jpg);
   --stroke-color: rgba(126, 2, 50, 0.5);
   --surface-color: rgba(250, 130, 200, 0.089);

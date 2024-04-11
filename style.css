@@ -105,7 +105,6 @@ ul {
   padding-top: 24px 0;
   padding-top: 12px;
   border: 1px solid var(--stroke-color);
-  border-radius: 50%;
 }
 
 ul li a {

@@ -84,7 +84,6 @@ body {
 
 #switch button:hover {
   outline: 8px solid var(--surface-color-hover);
-  border-radius: 50%;
 }
 
 #switch span {
@@ -105,6 +104,7 @@ ul {
   gap: 16px;
   padding-top: 24px 0;
   padding-top: 12px;
+  border: 1px solid var(--stroke-color);
   border-radius: 50%;
 }
 

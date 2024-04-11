@@ -16,6 +16,6 @@ function toggleMode() {
     img.setAttribute("src", "./light img.jpeg")
   } else {
     //se tiver sem light mode manter a imagem normal
-    img.setAttribute("src", "./dark img,jpeg")
+    img.setAttribute("src", "./dark img.jpeg")
   }
 }
